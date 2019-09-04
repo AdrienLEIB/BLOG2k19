@@ -4,7 +4,9 @@ h3 li{
 h1{
   text-decoration: underline;
 }
-
+.index_ol{
+  padding-inline-start: 0px;
+}
 #contact{
   text-align: center;
   position: center;
