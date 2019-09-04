@@ -1,4 +1,9 @@
 
+ol{
+    padding-inline-start: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
 #contact{
   text-align: center;
   position: center;
@@ -89,6 +94,7 @@ p{
 }
 #langue{
   text-align: center;
+  font-size: 10px;
 }
 .flex {
   display: flex;
@@ -370,4 +376,13 @@ p{
 }
 .blog{
   background-color: #748ABE;
+}
+.Competences{
+/*  text-align: center;
+  float:center;*/
+}
+@media (max-width: 720px) {
+  nav{
+    font-size: 8px;
+  }
 }
