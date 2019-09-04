@@ -52,11 +52,16 @@
 }
 
 .about{
-  background-color: white;
+  background-color: #3154A8;
   color:white;
   text-align: center;
   border-top:solid;
   border-bottom:solid;
+
+}
+.aboutme{
+  background-color: white;
+  color:#3154A8;
 
 }
 #img_me{
